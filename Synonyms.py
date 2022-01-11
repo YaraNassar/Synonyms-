@@ -1,4 +1,4 @@
-'''Starter code by Michael Geurzhoy'''
+
 import math
 
 def norm(vec):
